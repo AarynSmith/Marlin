@@ -1,0 +1,1 @@
+scp -o PreferredAuthentications=password .pio/build/sanguino1284p/firmware.hex pi@octopi.local:firmware.hex
